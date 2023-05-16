@@ -1,1 +1,1 @@
-# quanx
+# quanx自用规则
